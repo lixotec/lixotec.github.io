@@ -4,6 +4,7 @@
       "posts": [
         { 
             "id": 1,
+            "codigo": "LXT001",
             "titulo0": "Bem-vindo à LixoTec 1234",
             "titulo1": "123referência ambiental e social.",
             "conteudo0": "1234Somos uma iniciativa socioambiental de Foz do Iguaçu dedicada a dar um destino correto aos resíduos eletrônicos e transformar o que seria lixo em oportunidade. Há mais de uma década, trabalhamos para unir sustentabilidade, tecnologia e inclusão digital, coletando equipamentos, promovendo a reciclagem responsável e doando computadores e peças reaproveitadas para quem mais precisa. Nosso propósito é simples: cuidar do planeta e gerar impacto positivo na comunidade. Aqui você vai encontrar notícias, projetos, oficinas e histórias que mostram como pequenas atitudes podem gerar grandes mudanças.",
@@ -13,6 +14,7 @@
         },
         {
             "id": 2,
+            "codigo": "LXT002",
             "titulo0": "Bem-vindo à LixoTec",
             "titulo1": "referência ambiental e social.",
             "conteudo0": "Somos uma iniciativa socioambiental de Foz do Iguaçu dedicada a dar um destino correto aos resíduos eletrônicos e transformar o que seria lixo em oportunidade. Há mais de uma década, trabalhamos para unir sustentabilidade, tecnologia e inclusão digital, coletando equipamentos, promovendo a reciclagem responsável e doando computadores e peças reaproveitadas para quem mais precisa. Nosso propósito é simples: cuidar do planeta e gerar impacto positivo na comunidade. Aqui você vai encontrar notícias, projetos, oficinas e histórias que mostram como pequenas atitudes podem gerar grandes mudanças.",
@@ -22,6 +24,7 @@
         },
         {
           "id": 3,
+          "codigo": "LXT003",
           "titulo0": "EXEMPLO teste",
           "titulo1": "PROXIMO titulo",
           "titulo2": "Tituo extra",
