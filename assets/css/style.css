@@ -76,7 +76,7 @@ h1, h2, h3 {
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     font-family: 'Open Sans', sans-serif;
     width: 100%;
@@ -87,6 +87,7 @@ h1, h2, h3 {
     box-shadow: 0 10px 30px rgba(0,0,0,0.10);
     color: #1a1a1a;
     border: 1px solid rgba(17,70,21,0.06);
+    align-items: center;
 }
 
 .main-card-header h2 {
